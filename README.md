@@ -2,13 +2,11 @@
 Here is the complete, organized `README.md` file content for your FastAPI project:
 
 ```markdown
-# FastAPI Project Setup Guide
+## FastAPI Project Setup Guide
 
 Welcome to the FastAPI project! Follow these simple steps to set up and run the project on your local machine.
 
----
-
-## **1. Setting Up the Environment**
+## 1. Setting Up the Environment
 
 To ensure everything runs smoothly, it's recommended to use a virtual environment:
 
@@ -52,7 +50,7 @@ python main.py &
 
 ---
 
-4. Manage Background Process
+## 4. Manage Background Process
 
 To manage the background process:
 1. List all running jobs:
@@ -70,7 +68,7 @@ To manage the background process:
    Replace `<jobprocess>` with the specific process ID.
 
 
-## 5. Access the Application**
+## 5. Access the Application
 
 Once the application is running, open your web browser and navigate to:
 
